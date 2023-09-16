@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/optimus/Downloads/CS415/CS415-Game-Dev/MP1/Content/InfiniteMatrix/Blueprints/WBP_Health_Display.uasset",
+				"/Users/optimus/Downloads/CS415/CS415-Game-Dev/MP1/Content/InfiniteMatrix/Blueprints/WBP_.uasset",
+				"/Users/optimus/Downloads/CS415/CS415-Game-Dev/MP1/Content/InfiniteMatrix/Blueprints/WBP_Score.uasset",
 				"/Users/optimus/Downloads/CS415/CS415-Game-Dev/MP1/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"/Users/optimus/Downloads/CS415/CS415-Game-Dev/MP1/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"/Users/optimus/Downloads/CS415/CS415-Game-Dev/MP1/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
